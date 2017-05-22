@@ -23,10 +23,10 @@
   height: 250px;
   float: left;
   margin-left: 20px;
-  opacity: .6; 
+  opacity: .6;
   border-radius: 6px;
-  border-color: blue;
-  border-style: solid;
+  /*border-color: blue;
+  border-style: solid;*/
 }
 
 .clear {
