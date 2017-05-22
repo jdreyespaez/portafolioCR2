@@ -4,27 +4,28 @@
   left: 0;
   width: 3900px;
   height: 100%;
-  border-color: green;
-  border-style: solid;
+  /*border-color: green;
+  border-style: solid;*/
 }
 
 #container {
   width: 3900px;
   position: absolute;
-  top: 50%;
-  margin-top: -150px;
-  border-color: red;
-  border-style: solid;
+  top: 0;
+  left: 0;
+  /*margin-top: -150px;*/
+  /*border-color: red;
+  border-style: solid;*/
 }
 
 .section {
   display: block;
   width: 250px;
-  height: 250px;
+  height: 1000px;
   float: left;
-  margin-left: 20px;
+  /*margin-left: 20px;*/
   opacity: .6;
-  border-radius: 6px;
+  /*border-radius: 6px;*/
   /*border-color: blue;
   border-style: solid;*/
 }
