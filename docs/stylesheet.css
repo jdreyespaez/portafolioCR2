@@ -24,9 +24,15 @@
   float: left;
   /*margin-left: 20px;*/
   opacity: .6;
+  transition: 0.3s ease-in-out;
+  -webkit-transition: 0.3s ease-in-out;
   /*border-radius: 6px;*/
   /*border-color: blue;
   border-style: solid;*/
+}
+
+.section:hover {
+  width: 270px;
 }
 
 .clear {
