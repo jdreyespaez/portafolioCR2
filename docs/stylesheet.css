@@ -1,14 +1,4 @@
-.filler {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 3900px;
-  height: 100%;
-  /*border-color: green;
-  border-style: solid;*/
-}
-
-#container {
+.container {
   width: 3900px;
   position: absolute;
   top: 50%;
